@@ -1,24 +1,138 @@
-<h1 align="center">Hi 👋, I'm Muskan Mistry</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- ======================= HEADER ======================= -->
 
-- 🔭 I’m currently working on [Energy Analysis dashboard](https://github.com/muskanmistry-0116/jit-ea-full)
+<div align="center">
 
-- 🌱 I’m currently learning **Node.Js,and MongoDB**
+# Hi 👋, I'm Muskan Mistry
 
-- 👯 I’m looking to collaborate on **Web development and dashboard project**
+### Full-Stack Developer | CSE | Building Real-World Web Applications 🚀
 
-- 🤝 I’m looking for help with **Backend integration and API handling**
-
-- 📝 I regularly write articles on [Web development and UI design](Web development and UI design)
-
-- 💬 Ask me about **React,Vue and GSAP animations**
-
-- 📫 How to reach me **muskanmistry25@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://github.com/muskanmistry-0116">
+    <img src="https://komarev.com/ghpvc/?username=muskanmistry-0116&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/muskanmistry-0116?tab=followers">
+    <img src="https://img.shields.io/github/followers/muskanmistry-0116?label=Followers&style=flat" alt="Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science & Engineering student
+- 💻 Passionate about **Full-Stack Web Development**
+- 🚀 Building practical and scalable web applications
+- 🎨 Interested in **Frontend Development, UI/UX & Modern Web Experiences**
+- ⚙️ Working with **React, JavaScript, Node.js, Express & MongoDB**
+- 🔌 Exploring **REST APIs, Authentication, Databases & Backend Architecture**
+- 🧠 Currently improving my **Data Structures & Algorithms**
+- 🌱 Always learning, building and experimenting with new technologies
+- 🤝 Open to collaborating on interesting technology projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,python" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,prisma" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ VoltTrade
+
+> AI + Blockchain based peer-to-peer solar energy trading platform.
+
+**Tech:** AI • Blockchain • Web Development
+
+---
+
+### 📊 Energy Analysis Dashboard
+
+> Interactive dashboard designed to analyze, visualize and understand energy-related data.
+
+**Tech:** React • JavaScript • Data Visualization
+
+---
+
+### 💬 WhatsApp Business Automation Platform
+
+> Full-stack platform for messaging automation, campaigns, templates, contacts and visual workflow building.
+
+**Tech:** React • Node.js • Express • MongoDB • REST APIs
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muskanmistry-0116&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanmistry-0116&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=muskanmistry-0116&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Google Student Ambassador
+- 🧠 Oracle AI Foundation Associate
+- 📜 IBM SkillsBuild Certified
+- 🔬 Research Paper Published
+- 💡 Participated in Technical Ideathons & Hackathons
+- 🎭 2nd Rank — Drama Competition at VNIT
+- 🏆 1st Prize — Model Making Competition
+- 👩‍💼 Technical Forum Leadership Experience
+
+---
+
+## 🎯 Currently Working On
+
+```text
+Full-Stack Development
+        ↓
+Frontend → React / Next.js / Tailwind
+        ↓
+Backend → Node.js / Express
+        ↓
+Database → MongoDB / MySQL
+        ↓
+APIs → REST / Authentication
+        ↓
+DSA → JavaScript
